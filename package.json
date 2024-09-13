@@ -3,8 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "  https://github.com/PrinceXor/testci_cd/" ,
-
+  "homepage": "https://PrinceXor.github.io/testci_cd/" ,
   "scripts": {
     "dev": "vite",
     "build": "vite build",
